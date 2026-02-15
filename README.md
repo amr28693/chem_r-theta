@@ -23,7 +23,7 @@ A single self-contained Python script (`comparison_reaction_geometry.py`) that r
 python comparison_reaction_geometry.py
 ```
 
-No arguments, no configuration. Runs in ~1 second.
+No configuration needed.
 
 ## Outputs
 
@@ -72,4 +72,4 @@ MIT
 ## References
 
 - Teusink B et al. (2000) *Eur. J. Biochem.* **267**, 5313–5329
-- van Eunen K et al. (2012) *PLoS Comput. Biol.* **8**, e1002483
+- van Eunen K et al. (2012) *PLoS Comput. Biol.* **8(4)**, e1002483
