@@ -45,7 +45,7 @@ No arguments, no configuration. Runs in ~1 second.
 
 ## Enzyme parameters
 
-All kinetic parameters from Teusink et al. (2000) *Eur. J. Biochem.* **267**, 5313. V_max values converted from U/mg × 270 ≈ mM/min. See manuscript Table I for full listing and footnotes on simplifications (Ki,G6P proxy for Tps1 feedback; Hill approximation for PFK cooperativity).
+All kinetic parameters from Teusink et al. (2000) *Eur. J. Biochem.* **267**, 5313-5329. DOI:10.1046/j.1432-1327.2000.01527.x. V_max values converted from U/mg × 270 ≈ mM/min. See manuscript Table I for full listing and footnotes on simplifications (Ki,G6P proxy for Tps1 feedback; Hill approximation for PFK cooperativity).
 
 ## Requirements
 
@@ -63,7 +63,7 @@ The polar decomposition (r, θ) is developed at the operator level in:
 
 > A. M. Rodriguez, "An angular order parameter for drift–diffusion systems from the Fokker–Planck operator," preprint (2026).
 
-This PRE paper applies that framework to catalytic reaction networks and demonstrates that it resolves the Fisher–Rao conditioning catastrophe.
+This current work applies that framework to catalytic reaction networks and demonstrates that it resolves the Fisher–Rao conditioning catastrophe.
 
 ## License
 
